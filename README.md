@@ -4,7 +4,7 @@
 
 #### Description
 
-Orchardman is a mobile arcade game. 
+Orchardman is a mobile arcade game. Tilt the device to set the roation and hit the target. The goal is to score as many points as posible.
 
 ---
 
@@ -18,6 +18,8 @@ Orchardman is a mobile arcade game.
 
 #### Screenshots
 
-![](https://raw.githubusercontent.com/mwitjez/Orchardman/master/Screenshot_2.png?token=GHSAT0AAAAAABRKWACN2VZAMSJ7PMA5KQNQYRJ62TA)![](https://raw.githubusercontent.com/mwitjez/Orchardman/master/Screenshot_3.png?token=GHSAT0AAAAAABRKWACNLBMQLZDBNHKIC7T6YRJ624A)![](https://raw.githubusercontent.com/mwitjez/Orchardman/master/Screenshot_4.png?token=GHSAT0AAAAAABRKWACND6MYCIERDTVPII2KYRJ63DQ)
+![](https://raw.githubusercontent.com/mwitjez/Orchardman/master/Screenshot_2.png?token=GHSAT0AAAAAABRKWACN2VZAMSJ7PMA5KQNQYRJ62TA)
+![](https://raw.githubusercontent.com/mwitjez/Orchardman/master/Screenshot_3.png?token=GHSAT0AAAAAABRKWACNLBMQLZDBNHKIC7T6YRJ624A)
+![](https://raw.githubusercontent.com/mwitjez/Orchardman/master/Screenshot_4.png?token=GHSAT0AAAAAABRKWACND6MYCIERDTVPII2KYRJ63DQ)
 
 ![](https://raw.githubusercontent.com/mwitjez/Orchardman/master/Screenshot_1.png?token=GHSAT0AAAAAABRKWACM35DJITBBBVQXTZXCYRJ62DA)
