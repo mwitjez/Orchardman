@@ -4,7 +4,7 @@
 
 #### Description
 
-Orchardman is a mobile arcade game. Tilt the device to set the roation and hit the target. The goal is to score as many points as posible.
+Orchardman is a mobile arcade game. Tilt the device to set the rotation and hit the target. The goal is to score as many points as possible.
 
 ---
 
@@ -12,7 +12,7 @@ Orchardman is a mobile arcade game. Tilt the device to set the roation and hit t
 
 - Change the appearance of your character
 
-- View your best score at the and of each game
+- View your best score at the end of each game
 
 ---
 
